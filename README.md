@@ -6,4 +6,4 @@ Collection of converted blocklists for AdGuard Home
 - Stratosphere Lab Blacklist
   - Source: Stratosphere Laboratory
   - Update frequency: Daily
-  - Raw URL: https://raw.githubusercontent.com/TU_USUARIO/adguard-blocklists/main/stratosphere_blocklist.txt
+  - Raw URL: https://raw.githubusercontent.com/gonzayahoo03/adguard-blocklists/main/stratosphere_blocklist.txt
